@@ -1,0 +1,1863 @@
+[
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251001",
+    "date": "2025-10-01",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Sopa de pollo con verduras",
+      "Lomo adobado con patatas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251001",
+    "date": "2025-10-01",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Sopa de pollo con verduras",
+      "Lomo adobado con patatas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Sopa de pollo con verduras. Lomo adobado con patatas. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251001",
+    "date": "2025-10-01",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Sopa de pollo con verduras",
+      "Lomo adobado con patatas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada tropical. Revuelto de boletus con queso Fruta fresca."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251001",
+    "date": "2025-10-01",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Sopa de pollo con verduras",
+      "Lomo adobado con patatas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251001",
+    "date": "2025-10-01",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Sopa de pollo con verduras",
+      "Lomo adobado con patatas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada tropical. Revuelto de boletus con queso Fruta fresca."
+  },
+  {
+    "menu_id": "sin_lactosa_20251001",
+    "date": "2025-10-01",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Sopa de pollo con verduras",
+      "Lomo adobado con patatas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251002",
+    "date": "2025-10-02",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano",
+      "Contramuslo de pollo con guarnición",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251002",
+    "date": "2025-10-02",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano",
+      "Contramuslo de pollo con guarnición",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Hervido valenciano. Contramuslo de pollo con guarnición. Lácteo vegetal."
+  },
+  {
+    "menu_id": "base_20251002",
+    "date": "2025-10-02",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano",
+      "Contramuslo de pollo con guarnición",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Menestra de verduras. Ternera a la plancha. Lacteo"
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251002",
+    "date": "2025-10-02",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano (Sin judias)",
+      "Contramuslo de pollo con guarnición",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251002",
+    "date": "2025-10-02",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano",
+      "Contramuslo de pollo con guarnición",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Menestra de verduras. Ternera a la plancha. Lacteo"
+  },
+  {
+    "menu_id": "sin_lactosa_20251002",
+    "date": "2025-10-02",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano (Sin judias)",
+      "Contramuslo de pollo con guarnición",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251003",
+    "date": "2025-10-03",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Lomo a la plancha con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251003",
+    "date": "2025-10-03",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Lomo a la plancha con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Potaje de garbanzos con verduras. Lomo a la plancha con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251003",
+    "date": "2025-10-03",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Croquetas de bacalao con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Pescado azul al horno con patata y cebolla Fruta de temporada."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251003",
+    "date": "2025-10-03",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Arroz caldoso",
+      "Croquetas de bacalao con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251003",
+    "date": "2025-10-03",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Croquetas de bacalao con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Pescado azul al horno con patata y cebolla Fruta de temporada."
+  },
+  {
+    "menu_id": "sin_lactosa_20251003",
+    "date": "2025-10-03",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Arroz caldoso",
+      "Croquetas de bacalao con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251006",
+    "date": "2025-10-06",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada especial completa",
+      "Arroz del señoret",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251006",
+    "date": "2025-10-06",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada especial completa",
+      "Arroz del señoret",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada especial completa. Arroz del señoret. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251006",
+    "date": "2025-10-06",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Ensalada especial completa",
+      "Arroz del señoret",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sémola de arroz. Brochetas de pescado. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251006",
+    "date": "2025-10-06",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada especial completa",
+      "Arroz del señoret",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251006",
+    "date": "2025-10-06",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada especial completa",
+      "Arroz del señoret",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sémola de arroz. Brochetas de pescado. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251006",
+    "date": "2025-10-06",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada especial completa",
+      "Arroz del señoret",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251007",
+    "date": "2025-10-07",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Pasta a la boloñesa",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251007",
+    "date": "2025-10-07",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Pasta con carne picada",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Pasta con carne picada. Merluza a la plancha con verduras. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251007",
+    "date": "2025-10-07",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Pasta a la boloñesa",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sopa de verduras con lluvia Pollo a la plancha. Lácteo."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251007",
+    "date": "2025-10-07",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Pasta sin gluten a la boloñesa",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251007",
+    "date": "2025-10-07",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Pasta a la boloñesa",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sopa de verduras con lluvia Pollo a la plancha. Lácteo."
+  },
+  {
+    "menu_id": "sin_lactosa_20251007",
+    "date": "2025-10-07",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Pasta sin gluten a la boloñesa",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251008",
+    "date": "2025-10-08",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251008",
+    "date": "2025-10-08",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Lentejas con verduras. Cabeza de lomo con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251008",
+    "date": "2025-10-08",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Revuelto de champiñones con verduras y huevo. Ensalada. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251008",
+    "date": "2025-10-08",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251008",
+    "date": "2025-10-08",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Nuggets de pollo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Revuelto de champiñones con verduras y huevo. Ensalada. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251008",
+    "date": "2025-10-08",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251009",
+    "date": "2025-10-09",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "9 de octubre"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Festivo"
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251009",
+    "date": "2025-10-09",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "base_20251009",
+    "date": "2025-10-09",
+    "menu_type": "base",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO 9 DE OCTUBRE",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251009",
+    "date": "2025-10-09",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO 9 DE OCTUBRE",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251009",
+    "date": "2025-10-09",
+    "menu_type": "infantil",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "sin_lactosa_20251009",
+    "date": "2025-10-09",
+    "menu_type": "sin_lactosa",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO 9 DE OCTUBRE",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251010",
+    "date": "2025-10-10",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Festivo"
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251010",
+    "date": "2025-10-10",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "base_20251010",
+    "date": "2025-10-10",
+    "menu_type": "base",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251010",
+    "date": "2025-10-10",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251010",
+    "date": "2025-10-10",
+    "menu_type": "infantil",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "sin_lactosa_20251010",
+    "date": "2025-10-10",
+    "menu_type": "sin_lactosa",
+    "items": [],
+    "is_holiday": true,
+    "holiday_description": "FESTIVO",
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251013",
+    "date": "2025-10-13",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Pollo a la plancha",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251013",
+    "date": "2025-10-13",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Tortilla a la francesa con fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Potaje de garbanzos con verduras. Tortilla a la francesa con fiambre de pavo. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251013",
+    "date": "2025-10-13",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Tortilla a la francesa con fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Pescado al horno con patata y cebolla. Fruta de temporada."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251013",
+    "date": "2025-10-13",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Tortilla a la francesa con fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251013",
+    "date": "2025-10-13",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos con verduras",
+      "Tortilla a la francesa con fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Pescado al horno con patata y cebolla. Fruta de temporada."
+  },
+  {
+    "menu_id": "sin_lactosa_20251013",
+    "date": "2025-10-13",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Tortilla a la francesa con fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251014",
+    "date": "2025-10-14",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Puré de calabacin",
+      "Gallineta con verduras",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251014",
+    "date": "2025-10-14",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Puré de calabacin",
+      "Gallineta con verduras",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Puré de calabacin. Gallineta con verduras. Lácteo vegetal."
+  },
+  {
+    "menu_id": "base_20251014",
+    "date": "2025-10-14",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Puré de calabacin",
+      "Gallineta con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Arroz con verduras, guisantes y jamón york. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251014",
+    "date": "2025-10-14",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Puré de calabacin",
+      "Gallineta con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251014",
+    "date": "2025-10-14",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Puré de calabacin",
+      "Gallineta con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Arroz con verduras, guisantes y jamón york. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251014",
+    "date": "2025-10-14",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Puré de calabacin",
+      "Gallineta con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251015",
+    "date": "2025-10-15",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Pasta con bacon y tomate",
+      "Longanizas con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251015",
+    "date": "2025-10-15",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Pasta con bacon",
+      "Longanizas con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Pasta con bacon. Longanizas con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251015",
+    "date": "2025-10-15",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Pasta a la carbonara",
+      "Longanizas con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sopa de pollo y verduras con letras. Pavo a la plancha. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251015",
+    "date": "2025-10-15",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Pasta sin gluten a la carbonara",
+      "Longanizas con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251015",
+    "date": "2025-10-15",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Pasta a la carbonara",
+      "Longanizas con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sopa de pollo y verduras con letras. Pavo a la plancha. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251015",
+    "date": "2025-10-15",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Pasta sin gluten a la carbonara",
+      "Longanizas con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251016",
+    "date": "2025-10-16",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Guiso de carne con patatas",
+      "Queso fresco",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251016",
+    "date": "2025-10-16",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Guiso de carne con patatas",
+      "Pollo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Guiso de carne con patatas. Pollo. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251016",
+    "date": "2025-10-16",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Guiso de carne con patatas",
+      "Croquetas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada campestre Pescado al horno con patata. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251016",
+    "date": "2025-10-16",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Guiso de carne con patatas",
+      "Pollo a la plancha",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251016",
+    "date": "2025-10-16",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Guiso de carne con patatas",
+      "Croquetas",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada campestre Pescado al horno con patata. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251016",
+    "date": "2025-10-16",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Guiso de carne con patatas",
+      "Pollo a la plancha",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251017",
+    "date": "2025-10-17",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Arroz con acelgas",
+      "Hamburguesa de cerdo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251017",
+    "date": "2025-10-17",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Arroz con acelgas",
+      "Hamburguesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Arroz con acelgas. Hamburguesa con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251017",
+    "date": "2025-10-17",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Arroz con acelgas",
+      "Hamburguesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Verduras al horno. Lomo al horno. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251017",
+    "date": "2025-10-17",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Arroz con acelgas",
+      "Hamburguesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251017",
+    "date": "2025-10-17",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Arroz con acelgas",
+      "Hamburguesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Verduras al horno. Lomo al horno. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251017",
+    "date": "2025-10-17",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Arroz con acelgas",
+      "Hamburguesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251020",
+    "date": "2025-10-20",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Fideuà de peix",
+      "Fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251020",
+    "date": "2025-10-20",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Fideuà de peix",
+      "Fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Fideuà de peix. Fiambre de pavo. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251020",
+    "date": "2025-10-20",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Fideuà de peix",
+      "Fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "salmón con patata lácteo"
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251020",
+    "date": "2025-10-20",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Fideuà (fideos de arroz) de peix",
+      "Fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251020",
+    "date": "2025-10-20",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Fideuà de peix",
+      "Fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "salmón con patata lácteo"
+  },
+  {
+    "menu_id": "sin_lactosa_20251020",
+    "date": "2025-10-20",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Fideuà (fideos de arroz) de peix",
+      "Fiambre de pavo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251021",
+    "date": "2025-10-21",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada especial completa",
+      "Paella valenciana",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251021",
+    "date": "2025-10-21",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada especial completa",
+      "Paella valenciana",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada especial completa. Paella valenciana. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251021",
+    "date": "2025-10-21",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Ensalada especial completa",
+      "Paella valenciana",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Mestra de verduras POllo a la pancha. Fruta"
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251021",
+    "date": "2025-10-21",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada especial completa",
+      "Paella valenciana (sin legumbres)",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251021",
+    "date": "2025-10-21",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada especial completa",
+      "Paella valenciana",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Mestra de verduras POllo a la pancha. Fruta"
+  },
+  {
+    "menu_id": "sin_lactosa_20251021",
+    "date": "2025-10-21",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada especial completa",
+      "Paella valenciana (sin legumbres)",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251022",
+    "date": "2025-10-22",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Lomo adobado con verduras",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251022",
+    "date": "2025-10-22",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Lomo adobado con verduras",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Sopa de verduras. Lomo adobado con verduras. Lácteo vegetal."
+  },
+  {
+    "menu_id": "base_20251022",
+    "date": "2025-10-22",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Lomo adobado con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Verduras al horno. Filete de limanda al horno. Lácteo."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251022",
+    "date": "2025-10-22",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Lomo adobado con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251022",
+    "date": "2025-10-22",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Lomo adobado con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Verduras al horno. Filete de limanda al horno. Lácteo."
+  },
+  {
+    "menu_id": "sin_lactosa_20251022",
+    "date": "2025-10-22",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Sopa de verduras",
+      "Lomo adobado con verduras",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251023",
+    "date": "2025-10-23",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Pasta con atún, tomate",
+      "Pescado con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251023",
+    "date": "2025-10-23",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Pasta con atún",
+      "tomate",
+      "Pescado con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Pasta con atún, tomate. Pescado con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251023",
+    "date": "2025-10-23",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Pasta con atún, tomate y queso",
+      "Merluza doré con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sémola de arroz con caldo de pescado. Sepia a la plancha. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251023",
+    "date": "2025-10-23",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Pasta sin gluten con atún, tomate y queso",
+      "Merluza doré con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251023",
+    "date": "2025-10-23",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Pasta con atún, tomate y queso",
+      "Merluza doré con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Sémola de arroz con caldo de pescado. Sepia a la plancha. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251023",
+    "date": "2025-10-23",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Pasta sin gluten con atún, tomate y queso",
+      "Merluza doré con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251024",
+    "date": "2025-10-24",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Tortilla a la francesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251024",
+    "date": "2025-10-24",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Tortilla a la francesa con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Lentejas con verduras. Tortilla a la francesa con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251024",
+    "date": "2025-10-24",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Tortilla a la francesa con guarnición Fruta de temporada,"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Judías salteadas con cebolla Croquetas de bacalao. Lácteo."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251024",
+    "date": "2025-10-24",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Arroz con tomate",
+      "Tortilla a la francesa con guarnición Fruta de temporada,"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251024",
+    "date": "2025-10-24",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Lentejas con verduras",
+      "Tortilla a la francesa con guarnición Fruta de temporada,"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Judías salteadas con cebolla Croquetas de bacalao. Lácteo."
+  },
+  {
+    "menu_id": "sin_lactosa_20251024",
+    "date": "2025-10-24",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Arroz con tomate",
+      "Tortilla a la francesa con guarnición Fruta de temporada,"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251027",
+    "date": "2025-10-27",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Sopa de pescado",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251027",
+    "date": "2025-10-27",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Sopa de pescado",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Sopa de pescado. Merluza a la plancha con verduras. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251027",
+    "date": "2025-10-27",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Sopa de pescado",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Menestra verduras. Tortilla de jamón. Fruta."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251027",
+    "date": "2025-10-27",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Sopa de pescado",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251027",
+    "date": "2025-10-27",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Sopa de pescado",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Menestra verduras. Tortilla de jamón. Fruta."
+  },
+  {
+    "menu_id": "sin_lactosa_20251027",
+    "date": "2025-10-27",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Sopa de pescado",
+      "Merluza a la plancha con verduras",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251028",
+    "date": "2025-10-28",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos",
+      "Albóndigas a la jardinera",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251028",
+    "date": "2025-10-28",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos",
+      "Albóndigas a la jardinera",
+      "Lácteo vegetal"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Potaje de garbanzos. Albóndigas a la jardinera. Lácteo vegetal."
+  },
+  {
+    "menu_id": "base_20251028",
+    "date": "2025-10-28",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos",
+      "Albóndigas a la jardinera",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada tropical. Revuelto de boletus con queso Fruta fresca."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251028",
+    "date": "2025-10-28",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano (sin legumbres)",
+      "Albóndigas a la jardinera",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251028",
+    "date": "2025-10-28",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Potaje de garbanzos",
+      "Albóndigas a la jardinera",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada tropical. Revuelto de boletus con queso Fruta fresca."
+  },
+  {
+    "menu_id": "sin_lactosa_20251028",
+    "date": "2025-10-28",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Hervido valenciano (sin legumbres)",
+      "Albóndigas a la jardinera",
+      "Lácteo"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251029",
+    "date": "2025-10-29",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Arroz al horno",
+      "Abanico de fiambre",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251029",
+    "date": "2025-10-29",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Arroz al horno",
+      "Abanico de fiambre",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Arroz al horno. Abanico de fiambre. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251029",
+    "date": "2025-10-29",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Arroz al horno",
+      "Abanico de fiambre",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Menestra de verduras. Ternera a la plancha. Lacteo."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251029",
+    "date": "2025-10-29",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Arroz al horno (sin legumbres)",
+      "Abanico de fiambre",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251029",
+    "date": "2025-10-29",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Arroz al horno",
+      "Abanico de fiambre",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Menestra de verduras. Ternera a la plancha. Lacteo."
+  },
+  {
+    "menu_id": "sin_lactosa_20251029",
+    "date": "2025-10-29",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Arroz al horno (sin legumbres)",
+      "Abanico de fiambre",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251030",
+    "date": "2025-10-30",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Sopa de puchero",
+      "Puchero valenciano",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251030",
+    "date": "2025-10-30",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Sopa de puchero",
+      "Puchero valenciano",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Sopa de puchero. Puchero valenciano. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251030",
+    "date": "2025-10-30",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Sopa de puchero",
+      "Puchero valenciano",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Pescado azul al horno con patata y cebolla Fruta de temporada."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251030",
+    "date": "2025-10-30",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Sopa de puchero (sense llegums)",
+      "Puchero valenciano",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251030",
+    "date": "2025-10-30",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Sopa de puchero",
+      "Puchero valenciano",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Pescado azul al horno con patata y cebolla Fruta de temporada."
+  },
+  {
+    "menu_id": "sin_lactosa_20251030",
+    "date": "2025-10-30",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Sopa de puchero (sense llegums)",
+      "Puchero valenciano",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_huevo_20251031",
+    "date": "2025-10-31",
+    "menu_type": "alergico_proteina_vaca_huevo",
+    "items": [
+      "Ensalada",
+      "Puré de calabaza",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "alergico_proteina_vaca_lactosa_soja_20251031",
+    "date": "2025-10-31",
+    "menu_type": "alergico_proteina_vaca_lactosa_soja",
+    "items": [
+      "Ensalada",
+      "Puré de calabaza",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada. Puré de calabaza. Cabeza de lomo con guarnición. Fruta de temporada."
+  },
+  {
+    "menu_id": "base_20251031",
+    "date": "2025-10-31",
+    "menu_type": "base",
+    "items": [
+      "Ensalada",
+      "Puré de calabaza",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada de legumbres, queso fresco y tomate cherry. Fruta de temporada."
+  },
+  {
+    "menu_id": "celiaco_sin_legumbres_20251031",
+    "date": "2025-10-31",
+    "menu_type": "celiaco_sin_legumbres",
+    "items": [
+      "Ensalada",
+      "Puré de calabaza",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  },
+  {
+    "menu_id": "infantil_20251031",
+    "date": "2025-10-31",
+    "menu_type": "infantil",
+    "items": [
+      "Ensalada",
+      "Puré de calabaza",
+      "Nuggets de pollo",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": "Ensalada de legumbres, queso fresco y tomate cherry. Fruta de temporada."
+  },
+  {
+    "menu_id": "sin_lactosa_20251031",
+    "date": "2025-10-31",
+    "menu_type": "sin_lactosa",
+    "items": [
+      "Ensalada",
+      "Puré de calabaza",
+      "Cabeza de lomo con guarnición",
+      "Fruta de temporada"
+    ],
+    "is_holiday": false,
+    "holiday_description": null,
+    "dinner_recommendation": null
+  }
+]

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f7f5ef" />
+    <meta name="description" content="Consulta el menú escolar de Escolapias y las recomendaciones para la cena." />
+    <title>Menú Escolar · Escolapias</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Menú Escolar, inicio">
+        <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+        <span><strong>Menú Escolar</strong><small>Escolapias</small></span>
+      </a>
+      <button class="search-trigger" id="search-open" type="button" aria-haspopup="dialog" aria-controls="search-dialog">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+        <span class="visually-hidden">Buscar platos</span>
+      </button>
+    </header>
+
+    <dialog class="search-dialog" id="search-dialog" aria-labelledby="search-dialog-title">
+      <div class="search-dialog-shell">
+        <div class="dialog-heading">
+          <div><p class="eyebrow">BUSCAR EN TODOS LOS MENÚS</p><h2 id="search-dialog-title">¿Qué plato buscas?</h2></div>
+          <button class="dialog-close" id="search-close" type="button" aria-label="Cerrar búsqueda">×</button>
+        </div>
+        <label class="search-field dialog-search" for="search-input">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+          <span class="visually-hidden">Buscar un plato</span>
+          <input id="search-input" type="search" placeholder="Buscar arroz, pescado…" autocomplete="off" enterkeyhint="search" />
+        </label>
+        <p class="search-hint" id="search-hint">Escribe al menos dos caracteres. Buscaremos en todos los tipos de menú.</p>
+        <section class="search-results" id="search-results" hidden aria-labelledby="results-title">
+          <div class="results-heading">
+            <h2 id="results-title">Platos encontrados</h2>
+            <button id="clear-search" class="text-button" type="button">Limpiar</button>
+          </div>
+          <div class="result-list" id="result-list"></div>
+          <nav class="search-pagination" id="search-pagination" aria-label="Páginas de resultados" hidden>
+            <button id="search-prev" type="button">← Anterior</button>
+            <span id="search-page-status" aria-live="polite"></span>
+            <button id="search-next" type="button">Siguiente →</button>
+          </nav>
+        </section>
+      </div>
+    </dialog>
+
+    <main id="contenido">
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">MENÚ ESCOLAR</p>
+          <h1 id="page-title">El menú, sin buscarlo.</h1>
+          <p class="hero-copy">Consulta qué hay hoy o encuentra un plato en todo el histórico.</p>
+        </div>
+        <div class="hero-actions">
+          <button class="today-button" id="today-button" type="button">Ir a hoy</button>
+        </div>
+      </section>
+
+      <div id="main-experience">
+      <section class="filterbar" aria-label="Tipo de menú">
+        <div><p class="eyebrow">TIPO DE MENÚ</p><p>Consulta el menú general o una adaptación alimentaria.</p></div>
+        <span class="visually-hidden" id="menu-type-label">Seleccionar tipo de menú</span>
+        <div class="menu-type-control">
+          <button class="menu-type-button" id="menu-type-button" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="menu-type-list" aria-labelledby="menu-type-label menu-type-value">
+            <span class="menu-type-icon type-base" id="menu-type-indicator" aria-hidden="true">G</span>
+            <span id="menu-type-value">Menú general</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m7 9 5 5 5-5"/></svg>
+          </button>
+          <div class="menu-type-list" id="menu-type-list" role="listbox" aria-labelledby="menu-type-label" hidden></div>
+          <select class="visually-hidden" id="menu-type-select" tabindex="-1" aria-hidden="true"></select>
+        </div>
+      </section>
+
+      <section class="status-message" id="status-message" hidden role="status"></section>
+
+      <section class="spotlight" id="spotlight" aria-label="Menú seleccionado">
+        <article class="day-card" id="day-card" aria-live="polite">
+          <div class="day-card-header">
+            <div class="date-badge" aria-hidden="true"><strong id="badge-day">—</strong><span id="badge-month">—</span></div>
+            <div>
+              <p class="selected-kicker" id="selected-kicker">MENÚ DEL DÍA</p>
+              <h2 id="selected-date">Cargando menú…</h2>
+            </div>
+            <span class="service-pill" id="service-pill">Comedor</span>
+          </div>
+          <div class="menu-content" id="menu-content"></div>
+          <p class="dinner-unavailable" id="dinner-unavailable" hidden>No hay sugerencia de cena para este día.</p>
+          <nav class="day-navigation" aria-label="Navegar entre menús">
+            <button id="previous-menu" type="button"><span aria-hidden="true">←</span> Anterior</button>
+            <span id="menu-position" aria-live="polite"></span>
+            <button id="next-menu" type="button">Siguiente <span aria-hidden="true">→</span></button>
+          </nav>
+        </article>
+
+        <aside class="dinner-card" id="dinner-card">
+          <div class="dinner-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24"><path d="M4 17h16M6 17a6 6 0 0 1 12 0M12 8V5m-3 4L7.5 7.5M15 9l1.5-1.5"/></svg>
+          </div>
+          <p class="selected-kicker">PARA EQUILIBRAR EL DÍA</p>
+          <h2>Una idea para la cena</h2>
+          <p id="dinner-text">Cargando recomendación…</p>
+          <p class="dinner-note">Una sugerencia orientativa para complementar el menú del mediodía.</p>
+        </aside>
+      </section>
+
+      <section class="explorer" aria-labelledby="explorer-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">PLANIFICA LA SEMANA</p>
+            <h2 id="explorer-title">Explora otros días</h2>
+          </div>
+          <div class="month-nav">
+            <button id="prev-month" class="icon-button" type="button" aria-label="Mes anterior">←</button>
+            <div class="date-select year-field">
+              <label for="year-select">Año</label>
+              <div class="native-select-shell">
+                <span class="native-select-value" id="year-value" aria-hidden="true">—</span>
+                <select id="year-select" aria-label="Seleccionar año"></select>
+              </div>
+            </div>
+            <div class="date-select month-field">
+              <label for="month-select">Mes</label>
+              <div class="native-select-shell">
+                <span class="native-select-value" id="month-value" aria-hidden="true">—</span>
+                <select id="month-select" aria-label="Seleccionar mes"></select>
+              </div>
+            </div>
+            <button id="next-month" class="icon-button" type="button" aria-label="Mes siguiente">→</button>
+          </div>
+        </div>
+        <div class="weekday-row" aria-hidden="true"><span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
+        <div class="calendar" id="calendar" role="grid" aria-label="Calendario de menús"></div>
+        <div class="legend"><span><i class="dot menu-dot"></i> Puntos: tipos disponibles</span><span><i class="dot holiday-dot"></i> Festivo / vacaciones</span></div>
+      </section>
+
+      </div>
+    </main>
+
+    <footer>
+      <div><p>Menú escolar · <span id="footer-range">Datos disponibles</span></p><p>La información mostrada procede de los menús facilitados por el centro.</p></div>
+      <div class="menu-legend" id="menu-legend" aria-label="Leyenda de tipos de menú"></div>
+    </footer>
+    <noscript>Necesitas activar JavaScript para consultar el menú.</noscript>
+  </body>
+</html>
